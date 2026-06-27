@@ -1,4 +1,4 @@
-# AI Interview Platform 🚀
+# Interview.ai
 
 A premium, AI-powered technical assessment engine designed to redefine how engineering teams evaluate talent and how candidates prepare for their next big role. Built with a focus on high-end aesthetics and intelligent automation.
 
